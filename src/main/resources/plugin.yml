@@ -1,0 +1,4 @@
+name: AACSlack
+version: 1.0
+main: me.megaalex.aacslack.AACSlack
+depend: [AAC]
